@@ -48,7 +48,7 @@ pub fn update_durability(mut uri_data: UriData) -> Result<UriData, DecodeError> 
     }
 }
 
-pub fn repear_durability(mut uri_data: UriData) -> Result<UriData, DecodeError> {
+pub fn repair_durability(mut uri_data: UriData) -> Result<UriData, DecodeError> {
     let attribute_index = uri_data
         .attributes
         .iter()

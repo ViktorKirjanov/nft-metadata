@@ -145,7 +145,7 @@ fn main() {
         loop {
             println!("{}", "Please, select action:".yellow());
             println!("1. Use");
-            println!("2. Repear");
+            println!("2. Repair");
 
             let mut selected_index = String::new();
             io::stdin()
@@ -176,7 +176,7 @@ fn main() {
                     std::fs::write("src/json/xxx.json", serialized).unwrap();
                 }
                 2 => {
-                    let new_uri_data = match metadata::repear_durability(uri_data) {
+                    let new_uri_data = match metadata::repair_durability(uri_data) {
                         Ok(uri_data) => uri_data,
                         Err(err) => match err {
                             err => {
