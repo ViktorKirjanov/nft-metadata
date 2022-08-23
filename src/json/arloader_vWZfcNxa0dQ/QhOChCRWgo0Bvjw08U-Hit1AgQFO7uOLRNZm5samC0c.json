@@ -1,0 +1,20 @@
+{
+    "id": "QhOChCRWgo0Bvjw08U-Hit1AgQFO7uOLRNZm5samC0c",
+    "status": "Submitted",
+    "file_paths": {
+        "xxx.json": {
+            "id": "-TbIeE4UVFF8NSSZ1_RQD-qRCL69gfAOO32sb55p6SY",
+            "content_type": "application/json"
+        }
+    },
+    "number_of_files": 1,
+    "data_size": 912,
+    "created_at": "2022-08-19T16:24:28.800978Z",
+    "last_modified": "2022-08-19T16:24:28.800978Z",
+    "reward": 56679616,
+    "ar_tx_sig": "i00tFHPiIo3YcEDb3x9_P0o45EZfXQp5xmJyWvERuxHVfeEZyG9QTDNrQ7OGWehH-HZW473_QshKHhdy48vfwZUlD7SIl9wk9zzeB4bx8O1UVBackaiAoCjfnkvz3C0qggi0dT1zeAya7SlFps0I0wcCxo4CxZbeEWSb9hkm-qtimqmNzxeiBvufF-CpprgBA9pKWUvNkx4QYz9e11_mMyQUkwz2q5f-u15RsiXqoQDK0lORszFnW555zeW2FkhcQGRPA55FgBw2nOkN-8CIYmLrH9iUFPdV8fDamUPS0gr34vSqVm9NHJiTgKtYKfuXII1vzn6QHP7H24KrFOhvZEQglxqFTlJDHSdtdyQB-dIjMkm3Msgez8jfGAlwA2cMS-qy3WRxSWEoIAheDI-31nisVShG64JXBklNbAO8Be_b9HiFaGJZcUI4OH9iY739zTMFqqIIYtsgIkehWEyYJlJpGsEPPQVPLKKNjP6zJQiZ1NirZMG01-hLHyNYNc8wDKBo4ad5Wk_Abk7Uy6-p6IGu0DjAkSS_j86OAQEVBiTTUObu3OP2iqq9hpgX8ndS_U47joUQ6QeNRHOXRlNXxyVygXAPixqzgEZJMIORo_nY6QDDnnvPjsmS-jUOmnp-_cXNo6TVgJPHlo8O-J601TjZPMG5Tg0OFRfDpsc8Qvg",
+    "ar_tx_id": "QhOChCRWgo0Bvjw08U-Hit1AgQFO7uOLRNZm5samC0c",
+    "ar_tx_owner": "tJe_enp0fTXGvchQGXtHaboMaovHcuWmmMJFXI4abFE9ldUOQzV84C1Cd-H_LuufRfMnLFD-2AiVpdDh9Cuxf15BhAugxKMW2s67g85zVqGf-ROi3J0ovh5x8eB6wDH2SLvsvRDHCwLqz26idn-2LaUxiGZWkPeRSIpe1uksWXOWsTMfloZmjttT4QGeG2iqfAA0cwvJRUCRI7cytVajaFes09HB9T1F-cjP3LZiBbR29zsjmff_d5TgZlE3YRwZcOsrYKnIvZpPYlsAHXk8egA36KAbBfXAcyuLLYNOGQLjmD_y-E5p-K-aaeUS_Z17IXpeIzW1jsuKs80VOs8hFh5-8h_46D_oSFq8YA1zwZ6SQeLeig8cENP9nLTWXlF4-XOiLQUhUcF1vlXw7bsXQVAEEinawwmpHYCcYtC6bVvjc0CNkpTCq9Kqd7qa0EAhwlO3o9P7r4TXTRkIBi8e5ZBTtrVeOKhnTY8bC2Cpkab01pBdpyvAYMEPqxZ0pOEqhcIONDFC95WpTtM6mVuVgedDpJ1HDExr6tqqkZ_wdp1oZxRPWbTSVh33n4zTxsdnE5tJNt-XnaX3Z1m1V1XV-hE4ZereSLfMVg_3XRXZd9rwLRQU3oZm8DQru5Lxq0ZyiPrUmIL-PdXOXJCuszetfZPD3ea2iQcR-85-qs928XM",
+    "sol_tx_sig": "64kqx4PGptbescmCTEZQE5z2xXLuK3At9o8QWZ9iZyZUytM4YTTxXd9nvAsPahxGnPP3fFRYaDAmAdWKStwweTw2",
+    "lamports": 22671
+}

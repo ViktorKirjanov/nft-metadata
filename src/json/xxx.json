@@ -1,0 +1,47 @@
+{
+  "name": "Updated Number #0009",
+  "symbol": "NB",
+  "description": "Collection of 10 weapons. This is the number 9/10.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/9doc17OTrTLfm8Ya0j2eHgWBFDKtiwONIOUo08DByaw",
+  "attributes": [
+    {
+      "trait_type": "Weapon type",
+      "value": "Asault"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SCAR-H"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Level",
+      "value": "10/25"
+    },
+    {
+      "trait_type": "Durability",
+      "value": "45/50"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "numbers",
+    "family": "numbers"
+  }
+}
